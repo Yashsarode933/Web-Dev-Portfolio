@@ -179,7 +179,7 @@ export default function Hero() {
             <div className="relative flex flex-col items-center gap-6">
               <div className="glow-card float-soft relative h-48 w-48 overflow-hidden rounded-2xl border border-white/10 bg-gradient-to-br from-white/10 via-white/5 to-white/0 shadow-card">
                 <img
-                  src="./src/assets/Yash_Profile_Casual.jpg"
+                  src="/Yash_Profile_Casual.jpg"
                   alt="Portrait"
                   className="h-full w-full object-cover mix-blend-lighten"
                   loading="lazy"
