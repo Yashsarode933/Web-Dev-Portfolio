@@ -163,7 +163,7 @@ export default function Contact() {
               </div>
               <div className="relative">
                 <img
-                  src="https://api.qrserver.com/v1/create-qr-code/?size=160x160&data=https://resume-yash-sarode.tiiny.site"
+                  src="https://api.qrserver.com/v1/create-qr-code/?size=160x160&data=https://yash-resume-v2.tiiny.site"
                   alt="Resume QR"
                   className="h-28 w-28 rounded-xl border border-white/10 bg-white p-2"
                 />

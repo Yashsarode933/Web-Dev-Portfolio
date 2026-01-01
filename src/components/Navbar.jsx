@@ -87,7 +87,7 @@ export default function Navbar() {
         </div>
         <div className="flex items-center gap-2">
           <a
-            href="https://resume-yash-sarode.tiiny.site"
+            href="https://yash-resume-v2.tiiny.site"
             target="_blank"
             rel="noreferrer"
             className="hidden items-center gap-2 rounded-xl bg-gradient-to-r from-primary to-secondary px-4 py-2 text-sm font-semibold text-white shadow-glow transition hover:scale-[1.02] md:flex"
@@ -130,7 +130,7 @@ export default function Navbar() {
                 </button>
               ))}
               <a
-                href="https://resume-yash-sarode.tiiny.site"
+                href="https://yash-resume-v2.tiiny.site"
                 target="_blank"
                 rel="noreferrer"
                 className="flex items-center gap-2 rounded-xl bg-gradient-to-r from-primary to-secondary px-4 py-2 text-sm font-semibold text-white shadow-glow transition hover:scale-[1.02]"

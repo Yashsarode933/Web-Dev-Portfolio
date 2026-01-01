@@ -151,7 +151,7 @@ export default function Hero() {
               View Projects <ArrowRight className="h-4 w-4" />
             </button>
             <a
-              href="https://resume-yash-sarode.tiiny.site"
+              href="https://yash-resume-v2.tiiny.site"
               className="flex items-center gap-2 rounded-xl border border-white/15 px-5 py-3 font-semibold text-slate-100 transition hover:border-white/35 hover:bg-white/5"
             >
               Download Resume <Download className="h-4 w-4" />
